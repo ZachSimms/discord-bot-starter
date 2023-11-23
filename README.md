@@ -35,14 +35,7 @@ CLIENT_ID = 123
     ]
 }
 ```
-4. Setup `.gitignore`
-```
-.env
-config.json
-node_modules
-.vscode
-```
-5. Run `nodemon` in the terminal in project root directory
+4. Run `nodemon` in the terminal in project root directory
 
 ## Add Commands
 
